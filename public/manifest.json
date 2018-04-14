@@ -1,0 +1,35 @@
+{
+    "name": "IPL Schedule PWA",
+    "short_name": "IPL Schedule",
+    "icons": [
+        {
+            "src": "images/icons/ipl.png",
+            "size": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "images/icons/ipl-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "images/icons/ipl-152x152.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "images/icons/ipl-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/icons/ipl-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "green",
+    "theme_color": "yellow"
+}
